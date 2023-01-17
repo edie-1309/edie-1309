@@ -11,3 +11,4 @@
 
 ## 📚 Learning
  - Rest API
+ - <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a> Tailwind CSS

@@ -1,5 +1,5 @@
-<h1 align="center">Hey! 👋, I'm Edi and I'm 19 years old.</h1>
-<h4 align="center">I just learned new programming this year, and I am a php enjoyer :upside_down_face:</h4>
+<h1 align="center">Hey! 👋, I'm Edi</h1>
+<h4 align="center">I'm 19 years old. I just learned new programming this year :upside_down_face:</h4>
 
 ## ⚡ Skills
  - <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a> HTML

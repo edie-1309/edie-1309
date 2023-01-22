@@ -1,6 +1,8 @@
 <h1 align="center">Hey! 👋, I'm Edi</h1>
 <h4 align="center">I'm 19 years old. I just learned new programming this year :upside_down_face:</h4>
 
+<img src"giphy.gif">
+
 ## ⚡ Skills
  - <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a> HTML
  - <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a> CSS

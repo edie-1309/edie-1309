@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋, I'm Edi</h1>
 <h4 align="center">I'm 19 years old. I just learned new programming this year :upside_down_face:</h4>
 
-<img src="https://giphy.com/embed/iegwoAJoMBa1xLr6De" width="480"allowFullScreen>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/iegwoAJoMBa1xLr6De" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/freakmeaning-freak-meaning-fre4k-iegwoAJoMBa1xLr6De">via GIPHY</a></p>
 
 ## ⚡ Skills
  - <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a> HTML

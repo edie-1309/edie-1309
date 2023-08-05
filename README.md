@@ -3,7 +3,7 @@
 <h4 align="center">I'm 19 years old. I just learned new programming this year :upside_down_face:</h4>
 
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif">
+ 
 </div>
 
 ## ⚡ Skills

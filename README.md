@@ -1,6 +1,6 @@
 <h1 align="center">Hi!, I'm Edi</h1>
 
-<h4 align="center">I'm 19 years old. I just learned new programming this year :upside_down_face:</h4>
+<h4 align="center">I'm 19 years old. ✌️</h4>
 
 <div id="header" align="center">
  

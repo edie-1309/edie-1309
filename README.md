@@ -1,6 +1,6 @@
-<h1 align="center">Hi!, I'm Edi</h1>
+<h2>Hi!👋</h2>
 
-<h4 align="center">I'm 20 years old. ✌️</h4>
+<h4 align="center">I am Edi ✌️</h4>
 
 <div id="header" align="center">
  

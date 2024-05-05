@@ -1,6 +1,6 @@
 <h2>Hai!, I'm Edi👋</h2>
 
-<p>And i'm just a normal guy.</p>
+<p>skill issue...</p>
 
 <h3>My stack</h3>
 <div id="header" align="center">
